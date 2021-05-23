@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1593473090 source:e:\utn\laboratorio\juego10mil\funciones.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+
+1593471850 e:\utn\laboratorio\juego10mil\funciones.h
+
+1593473178 source:e:\utn\laboratorio\juego10mil\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+
+1593732366 source:c:\users\laru\documents\utn\1º año\1º cuatrimestre\laboratorio de computacion 1\tp final\funciones.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"funciones.h"
+
+1593722541 c:\users\laru\documents\utn\1º año\1º cuatrimestre\laboratorio de computacion 1\tp final\funciones.h
+
+1593736292 source:c:\users\laru\documents\utn\1º año\1º cuatrimestre\laboratorio de computacion 1\tp final\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"locale.h"
+	"rlutil.h"
+	"funciones.h"
+
+1593634477 c:\users\laru\documents\utn\1º año\1º cuatrimestre\laboratorio de computacion 1\tp final\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1593653392 source:e:\funciones.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"funciones.h"
+
+1593652911 e:\funciones.h
+
+1593653507 source:e:\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"locale.h"
+	"rlutil.h"
+	"funciones.h"
+
+1593650970 e:\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
